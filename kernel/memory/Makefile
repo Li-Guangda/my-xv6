@@ -1,0 +1,1 @@
+memory: kalloc.o vm.o
